@@ -46,4 +46,6 @@ options:**
 ./build/wcgo -c <filename>
 ```
 
+Challenge Source
 
+This project was developed as a solution to a coding challenge from  [coding challenges](https://codingchallenges.fyi)
