@@ -1,6 +1,6 @@
 # wcgo
 
-`wcgo` is a Go-based minimal utility similar to the Unix `wc` command. It provides functionality to count lines, words,
+`wcgo` is a Go-based minimal utility of the Unix `wc` command. It provides functionality to count lines, words,
 bytes, and characters in a given file. The project includes a Makefile for building and running the program easily.
 
 ## Installation
